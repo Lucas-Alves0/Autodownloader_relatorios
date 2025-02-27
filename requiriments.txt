@@ -1,0 +1,8 @@
+# Bibliotecas necessárias
+
+Selenium
+Gspread
+Requests
+CSV
+os
+time
